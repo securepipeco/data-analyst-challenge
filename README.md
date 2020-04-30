@@ -48,8 +48,8 @@ In this task, we would like you to persist the data obtained from task 1: upload
 - Import your data
 
 The outcome of this task is:
-- The SQL statements to create tables for the data
-- The Python script to upload the data
+- SQL statements to create tables for the data
+- A Python script to upload the data (or the one from Task 1, extended)
 
 ## Task 3: Reporting
 The last task focuses on the results reporting.
